@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+*.class
+target/
+*.jar
+*.war
+*.log
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+reports/*.txt
