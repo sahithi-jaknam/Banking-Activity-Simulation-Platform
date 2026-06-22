@@ -1,3 +1,4 @@
+🌐 Live Demo: https://banking-platform-sahithi.netlify.app
 # 🏦 Banking Activity Simulation Platform
 
 A full-stack Banking Activity Simulation Platform built with **Spring Boot** (backend) and **HTML/CSS/JavaScript** (frontend). The platform simulates real-world banking operations including account management, deposits, withdrawals, fund transfers, transaction history, and an automated bulk activity simulator.
